@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=00F7FF&center=true&vCenter=true&width=600&lines=SelectionSeva+Project;Created+By+Sujal+(aka);Fast+Clean+Modern+Beautiful+UI" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=00F7FF&center=true&vCenter=true&width=600&lines=SelectionSeva+Project;Created+By+𓍯𝙎𝙪𝙟𝙖𝙡⚝+;Fast+Clean+Modern+Beautiful+UI" />
 </p>
 
 ---
@@ -31,7 +31,7 @@
 ## 📸 UI Preview (Animated)
 
 <p align="center">
-  <img src="https://media.giphy.com/media/KcK5LOhRjHbAI/giphy.gif" width="500">
+  <img src="https://play-lh.googleusercontent.com/oHpeA_STZrBuYHN7w27GUfOBh-BleLkaZWjV2xc4la2isk1-sCI6cpg-DXWDHdI6y7u-IYoovSBozVK4RwPyjD0" width="500">
 </p>
 
 ---
